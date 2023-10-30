@@ -1,8 +1,9 @@
 # UI Template
 
-- Shadcn ui
-- vite
-- tailwind
+- [Shadcn ui](https://ui.shadcn.com/)
+- [vite](https://vitejs.dev/)
+- [tailwind](https://tailwindcss.com/)
+- [React Router](https://reactrouter.com/en/main/start/tutorial)
 
 
 ## Design 
