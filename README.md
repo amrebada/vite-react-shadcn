@@ -4,6 +4,8 @@
 - [vite](https://vitejs.dev/)
 - [tailwind](https://tailwindcss.com/)
 - [React Router](https://reactrouter.com/en/main/start/tutorial)
+- [Golang](https://golang.org/)
+- [Go-Modules](https://github.com/amrebada/go-modules)
 
 
 ## Design 
